@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.intro, .disco{
+    background-color: rgb(255, 255, 245);
+}
+h1,
+h2,
+h3,
+p,
+.ordered,
+.unordered {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50px;
+}
+.blue{
+    color: blue;
+    text-decoration: underline;
+}
+#heading1,
+#heading2 {
+  color: darkred;
+}
+.heading3 {
+  font-style:inherit;
+}
+#canto,
+#mandarin {
+  list-style: none;
+}
